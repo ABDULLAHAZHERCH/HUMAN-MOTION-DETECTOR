@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\delayMacro.inc</FILE>
+  <FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\UART.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\Debug\FinalProject.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>FinalProject.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>FinalProject.map</FILE>
+  <FILE>FinalProject.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN_LOOP><FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</FILE><LINE>39</LINE></MAIN_LOOP>
+  <BUZZER_ON><FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</FILE><LINE>75</LINE></BUZZER_ON>
+  <BUZZER_OFF><FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</FILE><LINE>78</LINE></BUZZER_OFF>
+  <wait><FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</FILE><LINE>52</LINE></wait>
+  <NIGHT><FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</FILE><LINE>63</LINE></NIGHT>
+  <DAY><FILE>E:\UET\3 Third Semester\COAL\LAB\FINAL\FinalProject\FinalProject\main.asm</FILE><LINE>70</LINE></DAY>
+ </LABELS>
+</ASSEMBLER_INFO>
